@@ -10,6 +10,7 @@ Steps:
 5) Stream the game and let your viewers send in blocks for you to use.
    
 Commands:
+
 /b - send in a block using the format of typing out which square you want to be filled in, such as 11121314 for a 4 long line on the very left
 
 /explain - sends a picture showing how blocks get sent
